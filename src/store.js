@@ -9,3 +9,5 @@ export const store = createStore(
   }),
   composeEnhancer()
 );
+
+console.log(store.getState());
