@@ -10,4 +10,4 @@ export const store = createStore(
   composeEnhancer()
 );
 
-console.log(store.getState());
+// console.log(store.getState());
